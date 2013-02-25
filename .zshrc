@@ -30,5 +30,7 @@ source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
 
+# OS X ls settings
 alias ls='ls -alTFhG'
+
 setopt AUTO_PUSHD
